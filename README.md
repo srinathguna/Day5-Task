@@ -35,8 +35,7 @@ open the folder,
 3. open the json_iterate.js file to view the code.
 
 ## Output Screen shots
-
-
+![day5](https://github.com/srinathguna/Day5-Task/assets/5001355/bf3dd417-fef4-4d36-9091-b4fc477411b9)
 
 
 
